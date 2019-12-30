@@ -1,9 +1,9 @@
 /// @description get_sprite_data()
 return json_decode(@"{
     "+"\""+@"s_battle_elizabeth_ranged"+"\""+@" : {
-        "+"\""+@"xoffset"+"\""+@"       : 32,
-        "+"\""+@"yoffset"+"\""+@"       :-32,
-        "+"\""+@"hit frame"+"\""+@"     : 4
+        "+"\""+@"xoffset"+"\""+@"       :77,
+        "+"\""+@"yoffset"+"\""+@"       :-52,
+        "+"\""+@"hit frame"+"\""+@"     : 8
     },
     
     "+"\""+@"s_battle_gargoyle_ranged"+"\""+@" : {

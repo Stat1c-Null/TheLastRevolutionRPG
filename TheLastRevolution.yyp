@@ -1823,6 +1823,14 @@
             }
         },
         {
+            "Key": "6ba0139f-ed7b-4c6e-9c85-30a2f20972a2",
+            "Value": {
+                "id": "866874f6-593e-403f-be34-c1e2e8de632b",
+                "resourcePath": "views\\6ba0139f-ed7b-4c6e-9c85-30a2f20972a2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6bada1f7-d3ae-4048-8e9c-b3d3a9bb648e",
             "Value": {
                 "id": "d68571ba-1148-4b12-9e04-e8cf133f622d",
@@ -2066,7 +2074,7 @@
             "Key": "77cd47f9-0853-432d-ad8d-e9ca8e4b7cf3",
             "Value": {
                 "id": "d94c0570-2222-425e-a1eb-b60f8ba601bc",
-                "resourcePath": "sprites\\s_fire_spell3\\s_fire_spell3.yy",
+                "resourcePath": "sprites\\s_fire_spell\\s_fire_spell.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2132,6 +2140,14 @@
                 "id": "20907edc-cb9b-4c27-a593-3e8ac0e20d6f",
                 "resourcePath": "objects\\o_action_use_ui\\o_action_use_ui.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7d84f0ab-ef0c-4b55-a7b6-408f86ca3222",
+            "Value": {
+                "id": "2e0dde1a-7ad5-4185-a707-be01fbdb7b3f",
+                "resourcePath": "sprites\\s_town_bar\\s_town_bar.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -3466,7 +3482,7 @@
             "Key": "c9bfc6a1-e394-45c2-8578-1deb813de208",
             "Value": {
                 "id": "ed3c6aa5-34c8-45ec-a0ea-e76a4aafb208",
-                "resourcePath": "sprites\\s_fire_spell\\s_fire_spell.yy",
+                "resourcePath": "sprites\\s_fire_spell1\\s_fire_spell1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -4212,6 +4228,14 @@
                 "id": "7b053964-5cc0-4ed6-8380-5fe3224fed7f",
                 "resourcePath": "sounds\\a_menu_select\\a_menu_select.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "fb71636f-9c80-491c-a320-7d6ae85c9301",
+            "Value": {
+                "id": "0a694da2-d4ce-4f2a-a8e8-b7c3e1c2cea6",
+                "resourcePath": "views\\fb71636f-9c80-491c-a320-7d6ae85c9301.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

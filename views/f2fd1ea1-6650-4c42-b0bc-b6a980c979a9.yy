@@ -9,7 +9,8 @@
         "b4bb68ae-90ca-4753-89bd-64bc02c02e80",
         "aec07de5-6f12-41a3-bb5c-9e52e15c0fe2",
         "864988b1-0e4c-40b2-a14f-32bc1d4302c4",
-        "46339092-ccef-40eb-a9e7-8f9e30c11190"
+        "46339092-ccef-40eb-a9e7-8f9e30c11190",
+        "fb71636f-9c80-491c-a320-7d6ae85c9301"
     ],
     "filterType": "GMSprite",
     "folderName": "tilesets",
